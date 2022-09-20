@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-09-20T12:57:16.581Z"
+    },
+    {
+      "id": 2,
+      "description": "Desenvolvimento BackEnd",
+      "type": "outcome",
+      "category": "Implementação Sistema",
+      "price": 3000,
+      "createdAt": "2022-09-20T12:57:16.581Z"
+    },
+    {
+      "id": 3,
+      "description": "Desenvolvimento",
+      "type": "income",
+      "category": "Implementação ",
+      "price": 4000,
+      "createdAt": "2022-09-20T12:57:16.581Z"
+    },
+    {
+      "description": "Curso Ignite",
+      "price": 1700,
+      "category": "Investimento em Conhecimento",
+      "type": "outcome",
+      "createdAt": "2022-09-20T18:21:19.621Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvedor Io",
+      "price": 1700,
+      "category": "Investimento",
+      "type": "outcome",
+      "createdAt": "2022-09-20T18:36:35.531Z",
+      "id": 5
+    }
+  ]
+}
